@@ -22,3 +22,5 @@ exacples: 1.EPTOS
 	  3.PPMIA
 7.Header: logo alttext name missing 1.1.1 Non-text Content
 examples: "Indian Institute of Geomagnetism"
+8.Home page: color contrast missing 1.4.3 Contrast (Minimum)
+examples: "Hindi" under below PPMIA
