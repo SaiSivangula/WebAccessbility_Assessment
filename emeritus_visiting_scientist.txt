@@ -1,0 +1,10 @@
+1.Home page: heading level wrong 1.4.3 Contrast (Minimum)
+current: <h6>INSA Honorary Scientist</h6>
+	 <h6>H.Q. Panvel</h6>
+expected: <h4>INSA Honorary Scientist</h4>
+	  <h4>H.Q. Panvel</h4>
+
+2.Home page: color contrast wrong 1.4.3 Contrast (Minimum)
+examples: 1.INSA Honorary Scientist
+	  2.Professor Of Eminence
+
