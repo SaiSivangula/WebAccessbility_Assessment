@@ -1,0 +1,24 @@
+1.Footer-  "Accessible name" missing 2.4.4(Link purpose(context)) missing
+examples: 1. Facebook icon
+	  2. Twitter icon
+2.Header- navigation back (shift+tab) keyboard 2.1.1 keyboard 
+examples: 1.who is who
+	  2.about us
+	  etc..
+Note : this applies for similar cases in header navigation bar
+3.Home page- color contrast missing 1.4.3 Contrast (Minimum)
+examples: "Upper Atmospheric Sciences"
+
+4.Home under- color contrast missing 1.4.3 Contrast (Minimum)
+examples: "Home>>Research Areas>>Upper Atmospheric Sciences"
+
+5.Home page: heading level wrong 1.3.1 Info and Relationships
+examples: current:"<h4>Upper Atmospheric Sciences</h4>"
+	  expected: <h3>Upper Atmospheric Sciences</h3>
+
+6.Home page: under "Upper Atmospheric Sciences" 4.1.2 Name, Role, Value
+exacples: 1.EPTOS
+	  2.NECLAS
+	  3.PPMIA
+7.Header: logo alttext name missing 1.1.1 Non-text Content
+examples: "Indian Institute of Geomagnetism"
